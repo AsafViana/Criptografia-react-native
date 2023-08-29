@@ -1,0 +1,9 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "criptografia_de_mensagem",
+  "short_name": "criptografia_de_mensagem",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
